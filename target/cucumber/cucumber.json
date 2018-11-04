@@ -1,0 +1,158 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 42849983022,
+              "status": "passed"
+            },
+            "match": {
+              "location": "homePage_StepDef.setup()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Dependencies is clickable",
+        "description": "",
+        "id": "click-events-functionality-in-apidemos-app-home-screen;dependencies-is-clickable",
+        "after": [
+          {
+            "result": {
+              "duration": 3551350915,
+              "status": "passed"
+            },
+            "match": {
+              "location": "homePage_StepDef.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 119301625,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on home page",
+            "match": {
+              "location": "homePage_StepDef.user_is_on_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 522327786,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Click on Dependencies",
+            "match": {
+              "location": "homePage_StepDef.click_on_dependencies()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 387881,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User is taken to the dependencies screen",
+            "match": {
+              "location": "homePage_StepDef.user_is_taken_to_the_dependencies_screen()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Click events functionality in ApiDemos app home screen",
+    "description": "",
+    "id": "click-events-functionality-in-apidemos-app-home-screen",
+    "keyword": "Feature",
+    "uri": "src/test/java/features/homeScreen.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 35379355116,
+              "status": "passed"
+            },
+            "match": {
+              "location": "homePage_StepDef.setup()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Views is clickable",
+        "description": "",
+        "id": "click-events-functionality-in-apidemos-app-home-screen--views;views-is-clickable",
+        "after": [
+          {
+            "result": {
+              "duration": 3625162188,
+              "status": "passed"
+            },
+            "match": {
+              "location": "homePage_StepDef.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 450319,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on home page",
+            "match": {
+              "location": "homePage_StepDef.user_is_on_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 421104782,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Click on Views",
+            "match": {
+              "location": "homePage_StepDef.click_on_views()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 298502,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User is taken to the Views screen",
+            "match": {
+              "location": "homePage_StepDef.user_is_taken_to_the_views_screen()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Click events functionality in ApiDemos app home screen- Views",
+    "description": "",
+    "id": "click-events-functionality-in-apidemos-app-home-screen--views",
+    "keyword": "Feature",
+    "uri": "src/test/java/features/homeScreen_2.feature"
+  }
+]

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="86.469722">
+<testcase classname="Click events functionality in ApiDemos app home screen" name="Dependencies is clickable" time="47.043351">
+<system-out><![CDATA[Given User is on home page..................................................passed
+When Click on Dependencies..................................................passed
+Then User is taken to the dependencies screen...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Click events functionality in ApiDemos app home screen- Views" name="Views is clickable" time="39.426371">
+<system-out><![CDATA[Given User is on home page..................................................passed
+When Click on Views.........................................................passed
+Then User is taken to the Views screen......................................passed
+]]></system-out>
+</testcase>
+</testsuite>

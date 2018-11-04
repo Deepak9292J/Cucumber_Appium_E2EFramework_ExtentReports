@@ -1,0 +1,78 @@
+20:19:10.258 [main] INFO  resources.LogsFile - Desired caps supplied
+20:19:21.374 [main] INFO  resources.LogsFile - Server Started successfully
+20:19:21.374 [main] INFO  resources.LogsFile - $$$$$$$$$$$$$$$$$$$$$                 Test_Case_Begins       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:19:21.499 [main] INFO  resources.LogsFile - On Home screen
+20:19:21.983 [main] INFO  resources.LogsFile - Preferencies clicked
+20:19:21.983 [main] INFO  resources.LogsFile - On Preferences screen
+20:19:21.983 [main] INFO  resources.LogsFile - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:19:25.521 [main] INFO  resources.LogsFile - Quit the driver
+20:19:50.697 [main] INFO  resources.LogsFile - Desired caps supplied
+20:20:01.347 [main] INFO  resources.LogsFile - Server Started successfully
+20:20:01.347 [main] INFO  resources.LogsFile - $$$$$$$$$$$$$$$$$$$$$                 Test_Case_Begins       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:20:01.347 [main] INFO  resources.LogsFile - On Home screen
+20:20:01.847 [main] INFO  resources.LogsFile - Views clicked
+20:20:01.847 [main] INFO  resources.LogsFile - On Views screen
+20:20:01.863 [main] INFO  resources.LogsFile - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:20:05.390 [main] INFO  resources.LogsFile - Quit the driver
+20:42:09.955 [main] INFO  resources.LogsFile - Desired caps supplied
+20:42:29.466 [main] INFO  resources.LogsFile - Server Started successfully
+20:42:29.466 [main] INFO  resources.LogsFile - $$$$$$$$$$$$$$$$$$$$$                 Test_Case_Begins       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:42:29.783 [main] INFO  resources.LogsFile - On Home screen
+20:42:30.496 [main] INFO  resources.LogsFile - Preferencies clicked
+20:42:30.498 [main] INFO  resources.LogsFile - On Preferences screen
+20:42:30.499 [main] INFO  resources.LogsFile - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:42:34.093 [main] INFO  resources.LogsFile - Quit the driver
+20:42:59.453 [main] INFO  resources.LogsFile - Desired caps supplied
+20:43:11.646 [main] INFO  resources.LogsFile - Server Started successfully
+20:43:11.646 [main] INFO  resources.LogsFile - $$$$$$$$$$$$$$$$$$$$$                 Test_Case_Begins       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:43:11.651 [main] INFO  resources.LogsFile - On Home screen
+20:43:11.925 [main] INFO  resources.LogsFile - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:43:15.305 [main] INFO  resources.LogsFile - Quit the driver
+20:45:33.197 [main] INFO  resources.LogsFile - Desired caps supplied
+20:45:45.610 [main] INFO  resources.LogsFile - Server Started successfully
+20:45:45.610 [main] INFO  resources.LogsFile - $$$$$$$$$$$$$$$$$$$$$                 Test_Case_Begins       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:45:45.860 [main] INFO  resources.LogsFile - On Home screen
+20:45:46.414 [main] INFO  resources.LogsFile - Preferencies clicked
+20:45:46.416 [main] INFO  resources.LogsFile - On Preferences screen
+20:45:46.417 [main] INFO  resources.LogsFile - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:45:49.930 [main] INFO  resources.LogsFile - Quit the driver
+20:46:15.157 [main] INFO  resources.LogsFile - Desired caps supplied
+20:46:25.171 [main] INFO  resources.LogsFile - Server Started successfully
+20:46:25.172 [main] INFO  resources.LogsFile - $$$$$$$$$$$$$$$$$$$$$                 Test_Case_Begins       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:46:25.176 [main] INFO  resources.LogsFile - On Home screen
+20:46:25.699 [main] INFO  resources.LogsFile - Views clicked
+20:46:25.701 [main] INFO  resources.LogsFile - On Views screen
+20:46:25.702 [main] INFO  resources.LogsFile - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:46:29.247 [main] INFO  resources.LogsFile - Quit the driver
+21:25:26.355 [main] INFO  resources.LogsFile - Desired caps supplied
+21:25:48.864 [main] INFO  resources.LogsFile - Server Started successfully
+21:25:48.864 [main] INFO  resources.LogsFile - $$$$$$$$$$$$$$$$$$$$$                 Test_Case_Begins       $$$$$$$$$$$$$$$$$$$$$$$$$
+21:25:49.067 [main] INFO  resources.LogsFile - On Home screen
+21:25:49.680 [main] INFO  resources.LogsFile - Preferencies clicked
+21:25:49.680 [main] INFO  resources.LogsFile - On Preferences screen
+21:25:49.680 [main] INFO  resources.LogsFile - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+21:25:53.401 [main] INFO  resources.LogsFile - Quit the driver
+21:26:18.600 [main] INFO  resources.LogsFile - Desired caps supplied
+21:26:28.894 [main] INFO  resources.LogsFile - Server Started successfully
+21:26:28.894 [main] INFO  resources.LogsFile - $$$$$$$$$$$$$$$$$$$$$                 Test_Case_Begins       $$$$$$$$$$$$$$$$$$$$$$$$$
+21:26:28.894 [main] INFO  resources.LogsFile - On Home screen
+21:26:29.347 [main] INFO  resources.LogsFile - Views clicked
+21:26:29.347 [main] INFO  resources.LogsFile - On Views screen
+21:26:29.347 [main] INFO  resources.LogsFile - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+21:26:33.002 [main] INFO  resources.LogsFile - Quit the driver
+21:34:50.423 [main] INFO  resources.LogsFile - Desired caps supplied
+21:35:01.926 [main] INFO  resources.LogsFile - Server Started successfully
+21:35:01.926 [main] INFO  resources.LogsFile - $$$$$$$$$$$$$$$$$$$$$                 Test_Case_Begins       $$$$$$$$$$$$$$$$$$$$$$$$$
+21:35:02.051 [main] INFO  resources.LogsFile - On Home screen
+21:35:02.582 [main] INFO  resources.LogsFile - Preferencies clicked
+21:35:02.582 [main] INFO  resources.LogsFile - On Preferences screen
+21:35:02.582 [main] INFO  resources.LogsFile - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+21:35:06.132 [main] INFO  resources.LogsFile - Quit the driver
+21:35:31.278 [main] INFO  resources.LogsFile - Desired caps supplied
+21:35:41.517 [main] INFO  resources.LogsFile - Server Started successfully
+21:35:41.517 [main] INFO  resources.LogsFile - $$$$$$$$$$$$$$$$$$$$$                 Test_Case_Begins       $$$$$$$$$$$$$$$$$$$$$$$$$
+21:35:41.517 [main] INFO  resources.LogsFile - On Home screen
+21:35:41.944 [main] INFO  resources.LogsFile - Views clicked
+21:35:41.944 [main] INFO  resources.LogsFile - On Views screen
+21:35:41.944 [main] INFO  resources.LogsFile - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+21:35:45.572 [main] INFO  resources.LogsFile - Quit the driver
